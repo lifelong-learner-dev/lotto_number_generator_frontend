@@ -1,0 +1,44 @@
+.numbers {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.number {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.color-1 {
+    background-color: red;
+}
+
+.color-2 {
+    background-color: blue;
+}
+
+.color-3 {
+    background-color: green;
+}
+
+.color-4 {
+    background-color: orange;
+}
+
+.color-5 {
+    background-color: purple;
+}
+
+.color-6 {
+    background-color: lightcoral;
+}
